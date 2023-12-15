@@ -2,11 +2,11 @@
 
 ## Overview
 
-Provide a brief introduction to your project, highlighting its purpose and key features.
+- Provide a brief introduction to your project, highlighting its purpose and key features.
 
 ## Purpose
 
-Clearly outline the steps you took to answer the questions in your analysis.
+**Clearly** outline the steps you took to answer the questions in your analysis.
 Include any difficulties or obstacles within your analysis.
 
 
@@ -14,7 +14,7 @@ Include any difficulties or obstacles within your analysis.
 
 Provide examples of the finished analysis such as graph.
 Explain the results of the analysis.
-
+![alt text](http://url/to/img.png)
 
 ## Summary
 Conclusions of analysis and final words.
